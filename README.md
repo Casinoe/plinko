@@ -1,7 +1,5 @@
 # Plinko
 
-![plinko](https://github.com/Casinoe/plinko/assets/33978801/db22e06e-3207-4aae-8016-9ca90ed5d9dc)
-
 ### Stack
 - JS
 - PixiJS
